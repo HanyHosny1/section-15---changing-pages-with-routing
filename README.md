@@ -1,3 +1,8 @@
+All you need to understand routing in Angular
+
+Content: Routing - Setting up routes child routes navigating passing parameters passing query parameters extracting parameters extractign parameters dynamically using guards guard types preventing the user from accidentally navigating away resolving data passing statis data styling links which are active handling errors (404) and much more
+
+
 # RoutingStart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
